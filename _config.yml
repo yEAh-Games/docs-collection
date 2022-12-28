@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Docsy Jekyll
+title: Docs / Collections / Library / yEAh Network
 email: your-email@domain.com
 author: Dinosaur Avocado
 description: > # this means to ignore newlines until "baseurl:"
@@ -29,15 +29,15 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://library-collections.yeahgames.net" # the base hostname & protocol for your site
 
 # Social (First three Required)
-repo: "https://github.com/vsoch/docsy-jekyll"
-github_user: "vsoch"
-github_repo: "docsy-jekyll"
-github_branch: "master"
+repo: "https://github.com/yEAh-Games/collections-docs"
+github_user: "yEAh-Games"
+github_repo: "collections-docs"
+github_branch: "main"
 
 # Optional
-twitter: vsoch
-linkedin: vsochat
-dockerhub: vanessa
+twitter: yEAhGames_
+linkedin: 
+dockerhub: 
 
 # These options are used to configure the locations of your version history when you want to serve versioned documents
 version_params:
