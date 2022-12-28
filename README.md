@@ -3,4 +3,4 @@ Library collections (https://library-collections.yeahgames.net) are a way to bro
 
 Library collections can be proposed and created by members. 
 
-**To browse all Archives content, you can visit the main Archives aggregator and displayer at the Library of yEAh Games (https://library.yeahgames.net)**
+**To browse all Archives content, you can visit the main Archives aggregator and displayer at the Library of yEAh Games (https://library.yeahgames.net).**
