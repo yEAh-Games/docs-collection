@@ -68,7 +68,7 @@ privacy: https://yeahgames.net/privacy
 # If commented, will use material hat theme
 logo: "https://i.imgur.com/XsnYzsI.png"
 logo_pixels: 34
-color: "#ff4747"
+# color: "#ff4747"
 color: "#ff4747" # primary color for header, buttons
 
 # Build settings
