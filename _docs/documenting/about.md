@@ -10,7 +10,7 @@ description: About the docs' formatting.
 
 This is a starter template for a docsy jekyll theme.
 
-![assets/img/docsy-jekyll.png](assets/img/docsy-jekyll.png)
+<img src="https://docs-collections.yeahgames.net/assets/img/docsy-jekyll.png">
 
 ## Purpose
 
