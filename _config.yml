@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Docsy Jekyll
-email: your-email@domain.com
-author: Dinosaur Avocado
+title: Docs / Collections / Library / yEAh Network
+email: yeahgamesdevs@gmail.com
+author: yEAh Games
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to the official Documentation Archive Collection of the yEAh Games Library, 
+  host of the official yEAh Games documentation archive collection for bots, rules, 
+  servers, games, etc. Readable and searchable at https://docs.yeahgames.net. Want to find out about something in yEAh Games? The Docs collection is your best option.
 
 # Add your baseurl here (your repository) but DO NOT CHANGE THE LINE NUMBER without editing .circleci/circle_urls.sh
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -61,15 +61,15 @@ version_params:
 feedback: true
 
 # Link to a privacy policy in footer, uncomment and define if wanted
-# privacy: https://domain.com/privacy
+privacy: https://yeahgames.net/privacy
 
 # google-analytics: UA-XXXXXXXXXX
 # Image and (square) dimension for logo (don't start with /)
 # If commented, will use material hat theme
-# logo: "assets/img/logo/SRCC-square-red.png"
+logo: "https://i.imgur.com/XsnYzsI.png"
 logo_pixels: 34
-color: "#30638e"
-# color: "#8c1515" # primary color for header, buttons
+color: "#ff4747"
+color: "#ff4747" # primary color for header, buttons
 
 # Build settings
 markdown: kramdown
