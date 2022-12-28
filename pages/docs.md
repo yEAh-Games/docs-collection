@@ -7,7 +7,7 @@ permalink: /docs/
 # Documentation
 
 Welcome to the yEAh Games Documentation pages! Here you can quickly jump to a 
-particular page.
+particular page. This list is based on when docs were published (newest first); please use the sidebar to view the docs in their proper folders.
 
 <div class="section-index">
     <hr class="panel-line">
