@@ -4,9 +4,7 @@ title: Docsy Jekyll Theme
 permalink: /
 ---
 
-# The yEAh Games Documentation Collection
-
-<img src="https://camo.githubusercontent.com/587d0039a5373faa75a448d7a49bbdabb7e389f94040764c98907ae12bb5e356/68747470733a2f2f692e696d6775722e636f6d2f6f50574a4f31512e706e67">
+# Welcome to Docsy Jekyll
 
 This is a starter template for a docsy jekyll theme.
 
