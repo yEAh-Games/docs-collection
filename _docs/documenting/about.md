@@ -1,7 +1,9 @@
 ---
-layout: page
-title: Docsy Jekyll Theme
-permalink: /
+title: About documenting
+tags: 
+ - jekyll
+ - github
+description: About the docs' formatting.
 ---
 
 # Welcome to Docsy Jekyll
