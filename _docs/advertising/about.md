@@ -5,7 +5,7 @@ tags:
  - about
  - get-started
  - how-to
-description: Getting started with Docsy Jekyll
+description: Did you know that yEAh Games offers an advertising platform for services across our network? Find out what you can book, how, pricing, and more, in this doc for advertising with The yEAh Games Corporation, LLC.
 ---
 # Advertising with yEAh Games and its subsidiaries
 <img src="https://yeaharchives.files.wordpress.com/2022/06/screenshot-2022-06-21-17.16.43.png" style="border: 1px solid #ff4747">
