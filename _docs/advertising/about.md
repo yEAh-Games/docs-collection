@@ -13,7 +13,7 @@ description: Did you know that yEAh Games offers an advertising platform for ser
 {% include alert.html type="info" title="Info" content="Did you know that yEAh Games offers an advertising service across our network? Follow the docs below to learn how." %}
 
 ## Book an advertisement!
-{% include alert.html type="success" title="Book an advertisement on a yEAh Games service!" content="Fill out the submission form at <a href="https://forms.gle/twCHRobtdW2pVcM6A">**ads.yeahgames.net/book**</a> today!" %}
+{% include alert.html type="success" title="Book an advertisement on a yEAh Games service!" content="Fill out the submission form at [**ads.yeahgames.net/book**](https://forms.gle/twCHRobtdW2pVcM6A) today!" %}
 
 ## About advertising on yEAh Games
 ### Where can I advertise?
