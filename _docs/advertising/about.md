@@ -111,7 +111,7 @@ We offer custom advertisements as well; contact an agent to setup a design meeti
 
 **All advertising is automatically paid for via Yollars from your yEAh Games account's connected Yank account.**
 
-{% include alert.html type="Try taking out a loan if you can't afford a purchase!" title="Info" content="The Yank of yEAh Games offers loaning services to anyone, regardless of their credit score. Simply visit the Yank's website, the Yank docs, or our Discord server to learn more." %}
+{% include alert.html type="success" title="Try taking out a loan if you can't afford a purchase!" content="The Yank of yEAh Games offers loaning services to anyone, regardless of their credit score. Simply visit the Yank's website, the Yank docs, or our Discord server to learn more." %}
 
 #### Pricing
 ##### **Banner**
