@@ -128,7 +128,7 @@ Depending on the location and site, our average price for sidebar advertisements
 *This type of advertisement is locked to **permanent-only** and prices are set to **variable**.*
 *Custom posts can only be bought as a one-time purchase and they will stay on the site forever, being slowly pushed down as new posts roll out.*
 
-Depending on the site, we usually charge around ![yollars](https://i.imgur.com/87aI8dI.png)**20000-30000** per post. This is not negotiable. You can get your post pinned to the top of the website for an average cost of ![yollars](https://i.imgur.com/87aI8dI.png)**1000-2000** per day, and we do offer sponsor applications for lower costs for pinning.
+Depending on the site, we usually charge around ![yollars](https://i.imgur.com/87aI8dI.png)**20000-30000** per post. This is not negotiable. You can get your post pinned to the top of the website for an average cost of ![yollars](https://i.imgur.com/87aI8dI.png)**1000-2000** per day, and we do offer sponsor applications for lower costs with long-time pinned posts.
 
 ##### **In-post/page**
 *This type of advertisement is locked to **permanent-only** and prices are set to **variable**.*
