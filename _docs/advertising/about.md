@@ -72,24 +72,28 @@ We offer various advertising products, all completely hosted on our servers and 
 Banner advertisements are advertisements posted horizontally on various parts of a page (only on pages that have a dedicated section banner ads). For example, some websites offer banner advertisements on the header and footer that users will see when they're on that part of the site. These types of advertisements are great for long-term adertising as they'll stay at an accessible part of the website for a long time. These are also perfect for animated ads as they allow lots of room to work with.
 
 ![Banner ad example](https://i.imgur.com/nHxfaU8.png)
+
 *An example of a banner advertisement in a header section of a page.*
 
 ###### **Sidebar**
 Sidebar advertisements are a traditional type of advertisements, placing a vertical, thin image in the "sidebar" section of a webpage. These can be very easily created and configured for the page, and it will often place it in a visible, easily accessible section where users may click anyways for other widgets. The vertical image is then simply linked to the path of your choice.
 
 ![image info](https://i.imgur.com/3R8raHC.png)
+
 *An example of a banner advertisement in a header section of a page.*
 
 ###### **Custom post**
 Custom post advertisements are a method of creating an actual, complete post (or other form of content) for your advertisement, where you are able to submit content to be displayed in the post; a post is created, temporairly (or permanently, depending on your plan), on the website purely for your advertisement. You can add whatever images, text, and design that you want inside it. Before clicking on the post's content, you'll be able to customize the title, tags, and featured image (if applicable). We also offer "sponsored" posts on certain layouts, which are ads desguised as posts that are linked to the path of your choice.
 
 ![custom post](https://i.imgur.com/hk73hOM.png)
+
 *An example of a sponsored/custom post displayed as a regular post.*
 
 ###### **In-post/page**
 In-post or in-page advertisements are usually banner-style ads, that, instead of being added to a standard part of page, like a header, they're added inside a post or a page, in-between various content blocks. These easily catch the users' attention and are great for inexpensive marketing or targeting specific users, instead of the entire site. You can customize which post(s) or post category and where on the posts that you want to display the ad(s).
 
 ![in-post ad](https://i.imgur.com/W7OG7kq.png)
+
 *Examples of in-post advertisement styles.*
 
 ###### **Pop-up**
