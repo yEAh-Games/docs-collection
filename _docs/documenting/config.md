@@ -1,11 +1,10 @@
-# yEAh Games Documentation
+# Configuring the docs
 
 [![CircleCI](https://circleci.com/gh/vsoch/docsy-jekyll/tree/master.svg?style=svg)](https://circleci.com/gh/vsoch/docsy-jekyll/tree/master)
 <a href="https://jekyll-themes.com/docsy-jekyll/">
     <img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
 </a>
 
-<img src="https://camo.githubusercontent.com/587d0039a5373faa75a448d7a49bbdabb7e389f94040764c98907ae12bb5e356/68747470733a2f2f692e696d6775722e636f6d2f6f50574a4f31512e706e67">
 
 This is a [starter template](https://vsoch.github.com/docsy-jekyll/) for a Docsy jekyll theme, based
 on the Beautiful [Docsy](https://github.com/google/docsy) that renders with Hugo. This version is intended for
