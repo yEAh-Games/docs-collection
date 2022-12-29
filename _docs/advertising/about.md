@@ -117,27 +117,27 @@ We offer custom advertisements as well; contact an agent to setup a design meeti
 ##### **Banner**
 *This type of advertisement is locked to **temporary-only** and prices are set to **variable**.*
 
-Depending on the location and site, our average price for banner advertisements in the header area per day is around <img src="https://i.imgur.com/nuHl9AH.png" width=10.6 height=15.4>**3000-4000**/day.
+Depending on the location and site, our average price for banner advertisements in the header area per day is around ![yollars](https://i.imgur.com/87aI8dI.png)**3000-4000**/day.
 
 ##### **Sidebar**
 *Sidebar advertisements are the most customizable of our products, allowing you to set them up as permanent or temporary, customize the location, and more. Prices vary depending on location and site.*
 
-Depending on the location and site, our average price for sidebar advertisements is around <img src="https://i.imgur.com/nuHl9AH.png" width=10.6 height=15.4>**1000-2000**/day. This format also supports partnership plans, allowing us to set up a permanent or long-term contract with very low or fixes prices.
+Depending on the location and site, our average price for sidebar advertisements is around ![yollars](https://i.imgur.com/87aI8dI.png)**1000-2000**/day. This format also supports partnership plans, allowing us to set up a permanent or long-term contract with very low or fixes prices.
 
 ##### **Custom posts**
 *This type of advertisement is locked to **permanent-only** and prices are set to **variable**.*
 *Custom posts can only be bought as a one-time purchase and they will stay on the site forever, being slowly pushed down as new posts roll out.*
 
-Depending on the site, we usually charge around <img src="https://i.imgur.com/nuHl9AH.png" width=10.6 height=15.4>**20000-30000** per post. This is not negotiable. You can get your post pinned to the top of the website for an average cost of <img src="https://i.imgur.com/nuHl9AH.png" width=10.6 height=15.4>**1000-2000** per day, and we do offer sponsor applications for lower costs for pinning.
+Depending on the site, we usually charge around ![yollars](https://i.imgur.com/87aI8dI.png)**20000-30000** per post. This is not negotiable. You can get your post pinned to the top of the website for an average cost of ![yollars](https://i.imgur.com/87aI8dI.png)**1000-2000** per day, and we do offer sponsor applications for lower costs for pinning.
 
 ##### **In-post/page**
 *This type of advertisement is locked to **permanent-only** and prices are set to **variable**.*
 
-Depending on the location and site, our average fixed price for in-post/page advertisements is around <img src="https://i.imgur.com/nuHl9AH.png" width=10.6 height=15.4>**3500**. Prices may vary depending on post traffic, and certain posts may not be able to support any more in-post advertisements if your requested slots are already taken.
+Depending on the location and site, our average fixed price for in-post/page advertisements is around ![yollars](https://i.imgur.com/87aI8dI.png)**3500**. Prices may vary depending on post traffic, and certain posts may not be able to support any more in-post advertisements if your requested slots are already taken.
 
 ##### **Pop-up**
 *This type of advertisement is locked to **temporary-only** and prices are set to **variable**. We usually do not accept this type of request, as they are difficult to install and can cause inconvenience to users.*
 
-Depending on the site, our average price for a pop-up advertisement is approximately <img src="https://i.imgur.com/nuHl9AH.png" width=10.6 height=15.4>**5000**/day, although this varies heavily depending on a variety of factors. Please contact an admin if you're interested, along with submitting a request.
+Depending on the site, our average price for a pop-up advertisement is approximately ![yollars](https://i.imgur.com/87aI8dI.png)**5000**/day, although this varies heavily depending on a variety of factors. Please contact an admin if you're interested, along with submitting a request.
 
 
