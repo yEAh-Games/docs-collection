@@ -14,7 +14,7 @@ description: Did you know that yEAh Games offers an advertising platform for ser
 
 ## Book an advertisement!
 {% include alert.html type="success" title="Book an advertisement on a yEAh Games service!" content="Fill out the submission form at [**ads.yeahgames.net/book**](https://forms.gle/twCHRobtdW2pVcM6A) today!" %}
-
+ 
 ## About advertising on yEAh Games
 ### Where can I advertise?
 
