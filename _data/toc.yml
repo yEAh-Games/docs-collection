@@ -1,10 +1,12 @@
 - title: 𝗗𝗢𝗖𝗨𝗠𝗘𝗡𝗧𝗔𝗧𝗜𝗢𝗡
   url: docs
+
 - title: Advertising
   url: docs/advertising
   links:
-    - title: About/instructions
-      url: "docs/advertising/about"
+    - title: "About/instructions"
+      url: "docs/documenting/about"
+
 - title: Documenting/writing the docs
   url: docs/documenting
   links:
@@ -34,3 +36,9 @@
     - title: Quizzes
       url: "docs/extras/example-quiz"
 
+
+- title: Advertising
+  url: docs/advertising
+  links:
+    - title: About/instructions
+      url: "docs/advertising/about"
