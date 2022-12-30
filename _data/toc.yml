@@ -1,25 +1,36 @@
-- title: Documentation
+- title: YEAH GAMES DOCS
   url: docs
+- title: Advertising
+  url: docs/advertising
+  links:
+    - title: About/instructions
+      url: "docs/advertising/about"
+- title: Documenting/writing the docs
+  url: docs/documenting
   links:
     - title: "Getting Started"
-      url: "docs/getting-started"
+      url: "docs/documenting/getting-started"
       children:
         - title: Features
-          url: "docs/getting-started#getting-started"
+          url: "docs/documenting/getting-started#getting-started"
         - title: Development
-          url: "docs/getting-started#development"
+          url: "docs/documenting/getting-started#development"
         - title: Customization
-          url: "docs/getting-started#customization"
+          url: "docs/documenting/getting-started#customization"
     - title: Versioning
-      url: "docs/versioning"
+      url: "docs/documenting/versioning"
+
+
+
+- title: "OTHER LINKS"
+  url: "docs/extras"
+  links:
     - title: "About"
       url: "about"
     - title: "News"
-      url: "news"
-- title: "Extras"
-  url: "docs/extras"
-  links:
+      url: "news"   
+    - title: Tags
+      url: "tags"   
     - title: Quizzes
       url: "docs/extras/example-quiz"
-    - title: Tags Page
-      url: "tags"
+
