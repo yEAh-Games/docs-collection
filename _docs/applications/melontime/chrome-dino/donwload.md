@@ -4,7 +4,12 @@ title: MelonTime -- Chrome Dino Hacks
 date: 2022-04-16 17:20
 author: yeahgamesdevs
 comments: true
-categories: [download, exploits, Hack downloads, hacking, Hacks, melontime, MelonTime ®, official]
+tags: 
+- download 
+- exploits 
+- Hack downloads 
+- hacking
+- melontime
 ---
 <!-- wp:paragraph -->
 <p>This page lists all hacks developed by the MelonTime team<sup>® </sup>(yEAh Games' hack series) for the Chrome dinosaur game.<br>All original MelonTime<sup>®</sup> hacks, as well as other hack downloads, can be viewed in the <a href="https://discord.com/channels/887052880782176266/894730499405258753"><code>#hax-download</code> </a>channel on our Discord server.<br>Please follow the instructions as we have listed them; there should be no threat if you follow these steps exactly as they are. <br>⠀⠀▶︎ <strong>Legal notice:<em> </em></strong><em>The</em> <em>yEAh Games</em> Corporation<em>, LLC</em>, waves all of its liability regarding hack downloads. We <em>have</em> tested them to make sure they are safe, but if any damages do occur, we reserve the right to wave our liability. Please agree to this before downloading any exploits.</p>
