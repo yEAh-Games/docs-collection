@@ -14,13 +14,44 @@
       url: "docs/applications/melontime/"
     - title: "Melontime: Chrome DinoGame"
       url: "docs/applications/melontime/chrome-dino/download"
-      links:
     - title: "Melontime: Block bypassing"
       url: "docs/applications/melontime/blocks/download"
+
+- title: Archives
+  url: docs/archives
+  links:
+    - title: "About archiving"
+      url: "docs/archives/about"
+    - title: "Start archiving!"
+      url: "docs/archives/start"
+
+- title: Bots
+  url: docs/bots
+  links:
+    - title: "Yeebot: About"
+      url: "docs/bots/yeebot/about"
+    - title: "Yeebot: Commands!"
+      url: "docs/bots/yeebot/commands"
+
+- title: Discord
+  url: docs/discord
+  links:
+    - title: "Discord: About"
+      url: "docs/discord/about"
+    - title: "Discord: Join!!"
+      url: "docs/discord/about"
 
 - title: Documenting/writing the docs
   url: docs/documenting
   links:
+    - title: "About documenting with YG"
+      url: "docs/documenting/about"
+    - title: "Configuring the docs"
+      url: "docs/documenting/config"
+    - title: "How-to/quickstart guide"
+      url: "docs/documenting/documenting"
+    - title: "A documentation example page"
+      url: "docs/documenting/example-page"
     - title: "Getting Started"
       url: "docs/documenting/getting-started"
       children:
@@ -30,8 +61,35 @@
           url: "docs/documenting/getting-started#development"
         - title: Customization
           url: "docs/documenting/getting-started#customization"
+    - title: "Working with subfolders"
+      url: "docs/documenting/subfolder"
     - title: Versioning
       url: "docs/documenting/versioning"
+
+- title: Finance
+  url: docs/finance
+  links:
+    - title: "Stocks: About"
+      url: "docs/finance/stocks/about"
+    - title: "Stocks: Symbols"
+      url: "docs/finance/stocks/symbols"      
+    - title: "Yank: About balances"
+      url: "docs/finance/yank/balances"   
+    - title: "Yank: Rates"
+      url: "docs/finance/yank/rates"   
+    - title: "Yembership: About/join"
+      url: "docs/finance/yembership/about"   
+
+- title: Games
+  url: docs/games
+  links:
+    - title: "Random Guy: Current rules"
+      url: "docs/games/rg/rules/current"
+    - title: "Wa Wa West+: Current rules"
+      url: "docs/games/www/rules/current"      
+    - title: "Yic Yac Yoe: Current rules"
+      url: "docs/games/yyy/rules/current"   
+
 
 
 
