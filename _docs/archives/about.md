@@ -7,7 +7,7 @@ tags:
 - archives 
 - archiving
 - library
-
+description: About the Archives, the library and collections system, how to start archiving or hosting archived content, and how we format the Archives.
 ---
 
 # About archiving with yEAh Games
