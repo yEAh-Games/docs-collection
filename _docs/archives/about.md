@@ -14,8 +14,7 @@ description: About the Archives, the library and collections system, how to star
 
 {% include alert.html type="warning" title="Note: We previously hosted our now-deprecated Archives on WordPress.com!" content="You may know this website as yeahgames.pro, which redirected to https://yeaharchives.wordpress.com, where we hosted our Archives from April 2022 to December 2022 before migrating to the opensource, custom, and organized, one-stop yEAh Network at https://yeahgames.net running off of GitHub. **This website is now deprecated and is no longer being updated!** We may eventually shut it down for public access, but for now it is still accessible. Information is out-of-date and the website is no longer supported. Please migrate to the yEAh Network as soon as possible." %}
 
-<!-- wp:paragraph -->
-<p>The yEAh Games archives are a system designed to make sure we (yEAh Games) never lose important data. It will often be used in Ycourt trials as evidence, or as research documents.</p>
+<!-- wp:paragraph -->The yEAh Games archives are a system designed to make sure we (yEAh Games) never lose important data. It will often be used in Ycourt trials as evidence, or as research documents. Our goal is to Archive all of yEAh Games, Disord or elsewhere, for safekeeping and easy access online.
 <!-- /wp:paragraph -->
 
 ## The main Library
