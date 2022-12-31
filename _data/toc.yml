@@ -12,8 +12,9 @@
   links:
     - title: "Melontime development"
       url: "docs/advertising/melontime"
+      links:
         - title: "Chrome DinoGame"
-          url: "docs/advertising/donwload"
+          url: "docs/advertising/melontime/chrome-dino/download"
 
 - title: Documenting/writing the docs
   url: docs/documenting
