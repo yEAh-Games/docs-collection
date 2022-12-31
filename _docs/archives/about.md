@@ -35,7 +35,6 @@ As of December 31st, 2022, the active and proposed Library collections are as fo
 - The Quotes collection [For various quotes]; hosted at [quotes.yeahgames.net](https://quotes.yeahgames.net)
 - The Archives content collection [For content that cannot be hosted using collections or the main library, especially various file types]; hosted at [archives-cdn.yeahgames.net](https://archives-cdn.yeahgames.net)
 - The OKdex collection [For the OKdex of Random Guy TCG]; hosted at [okdex.yeahgames.net](https://okdex.yeahgames.net)
-- 
 
 Most content on the archives is hosted on library collections for easier access and organization, but you can still view everything at once on the Main Library. 
 ### Hosting your own collection
