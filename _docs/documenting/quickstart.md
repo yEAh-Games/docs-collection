@@ -1,14 +1,14 @@
-# Configuring the docs
 ---
 title: Configuring the docs
 tags: 
-- config 
-- documenting 
-- how-to
-- guide
-- docs
-description: Configuring the yEAh Games docs external library collection online.
+ - config
+ - documenting
+ - how-to
+ - guide
+ - docs
+description: Configuring the yEAh Games docs external library collection.
 ---
+
 
 This is a [starter template](https://vsoch.github.com/docsy-jekyll/) for a Docsy jekyll theme, based
 on the Beautiful [Docsy](https://github.com/google/docsy) that renders with Hugo. This version is intended for
