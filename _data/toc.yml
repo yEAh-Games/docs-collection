@@ -59,6 +59,8 @@
           url: "docs/documenting/getting-started#development"
         - title: Customization
           url: "docs/documenting/getting-started#customization"
+    - title: "Working with quizzes"
+      url: "docs/extras/example-quiz"
     - title: "Working with subfolders"
       url: "docs/documenting/subfolder"
     - title: Versioning
@@ -100,5 +102,3 @@
       url: "news"   
     - title: Tags
       url: "tags"   
-    - title: Quizzes
-      url: "docs/extras/example-quiz"
