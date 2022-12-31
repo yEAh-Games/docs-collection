@@ -5,6 +5,9 @@ description: How to turn on and use versioning
 
 # Versioning
 
+{% include alert.html type="danger" title="We have discontinued versioning on the yEAh Games docs! Archivists and anyone working on the docs, please do not set it up or attempt to link to a versioned page! If you find a dead link to a versioned page, please clean it up by reversing the steps below. " %}
+
+
 Versioning documentation is a useful feature that can be achieved using Docsy Jekyll. It allows you to take snapshots of your documentation that may align with a specific version of a product or service, or you may wish to just keep a historical view of the changes that have been made to your documents over time.
 
 {% include alert.html type="info" title="Note: This only allows you to version documents inside the _docs folder, it does not allow you to version any files outside of that, such as Pages, Posts etc." %}

@@ -39,7 +39,7 @@
     - title: "Discord: About"
       url: "docs/discord/about"
     - title: "Discord: Join!!"
-      url: "docs/discord/about"
+      url: "docs/discord/join"
 
 - title: Documenting/writing the docs
   url: docs/documenting
@@ -48,9 +48,7 @@
       url: "docs/documenting/about"
     - title: "Configuring the docs"
       url: "docs/documenting/config"
-    - title: "How-to/quickstart guide"
-      url: "docs/documenting/documenting"
-    - title: "A documentation example page"
+    - title: "An example page"
       url: "docs/documenting/example-page"
     - title: "Getting Started"
       url: "docs/documenting/getting-started"

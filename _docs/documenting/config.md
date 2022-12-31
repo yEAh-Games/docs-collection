@@ -1,4 +1,16 @@
 # Configuring the docs
+---
+layout: post
+title: Configuring the docs
+date: 2022-12-28 17:20
+author: yeahgamesdevs
+comments: true
+tags: 
+- config 
+- documenting 
+- how-to
+- guide
+- docs
 
 [![CircleCI](https://circleci.com/gh/vsoch/docsy-jekyll/tree/master.svg?style=svg)](https://circleci.com/gh/vsoch/docsy-jekyll/tree/master)
 <a href="https://jekyll-themes.com/docsy-jekyll/">
