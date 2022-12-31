@@ -9,6 +9,7 @@ tags:
 description: Configuring the yEAh Games docs external library collection.
 ---
 
+# Quick start and configuring the docs
 
 This is a [starter template](https://vsoch.github.com/docsy-jekyll/) for a Docsy jekyll theme, based
 on the Beautiful [Docsy](https://github.com/google/docsy) that renders with Hugo. This version is intended for

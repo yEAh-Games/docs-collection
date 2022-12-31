@@ -1,9 +1,7 @@
 ---
-layout: post
-title: MelonTime -- Chrome Dino Hacks
+title: MelonTime: Chrome Dino hacks download
 date: 2022-04-16 17:20
 author: yeahgamesdevs
-comments: true
 tags: 
 - download 
 - exploits 
@@ -11,9 +9,15 @@ tags:
 - hacking
 - melontime
 ---
+
+{% include alert.html type="danger" title="Do not paste random scripts into the developer console!" content="Pasting scripts into the developer console can expose vulnerabilities that can expose vulnerable information, like your account credentials and IP address.  We have tested these scripts to ensure that they are safe, but use them at your own risk. **The yEAh Games Corporation, LLC. waves all liability regarding MelonTime Hack downloads; if any damages occur, we are not responsible.**" %}
+
 <!-- wp:paragraph -->
-<p>This page lists all hacks developed by the MelonTime team<sup>® </sup>(yEAh Games' hack series) for the Chrome dinosaur game.<br>All original MelonTime<sup>®</sup> hacks, as well as other hack downloads, can be viewed in the <a href="https://discord.com/channels/887052880782176266/894730499405258753"><code>#hax-download</code> </a>channel on our Discord server.<br>Please follow the instructions as we have listed them; there should be no threat if you follow these steps exactly as they are. <br>⠀⠀▶︎ <strong>Legal notice:<em> </em></strong><em>The</em> <em>yEAh Games</em> Corporation<em>, LLC</em>, waves all of its liability regarding hack downloads. We <em>have</em> tested them to make sure they are safe, but if any damages do occur, we reserve the right to wave our liability. Please agree to this before downloading any exploits.</p>
-<!-- /wp:paragraph -->
+<p>This page lists the most recent version of hacks developed by the MelonTime team<sup>® </sup>(yEAh Games' hack series) for the Chrome dinosaur game.<br>
+
+{% include alert.html type="info" title="The original hacks, along with other downloads, can be access from our Discord server." content="All original MelonTime<sup>®</sup> hacks, as well as other hack downloads, can be viewed in the [#hax-download](https://discord.com/channels/887052880782176266/894730499405258753) channel on our Discord server." %}
+
+Please follow the instructions as we have listed them; there should be no threat if you follow these steps exactly as they are. 
 
 <!-- wp:separator -->
 <hr class="wp-block-separator has-alpha-channel-opacity" />
@@ -24,7 +28,7 @@ tags:
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><strong>All of the</strong> <strong>hacks require you to do the following first steps: </strong></p>
+<p><strong>All of the ChromeDino MelonTime</strong> <strong>hacks require you to do the following first steps: </strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list {"ordered":true} -->
@@ -36,7 +40,7 @@ tags:
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Start the exploiting system by pasting this command, and clicking "enter": <code>var original = Runner.prototype.gameOver</code><br>2. Start executing the command by pasting this command, and clicking "enter": <code>Runner.prototype.gameOver = function (){}</code><br>3. Try it!</p>
+<p>1. Start the exploiting system by pasting this JavaScript command into the console, and clicking "enter": <code>var original = Runner.prototype.gameOver</code><br>2. Start executing the command by pasting this command, and clicking "enter": <code>Runner.prototype.gameOver = function (){}</code><br>3. Try it!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"fontSize":"medium"} -->
