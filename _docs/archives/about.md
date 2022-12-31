@@ -28,6 +28,15 @@ This, however, is not the best way of viewing organized content.
 
 The Library of yEAh Games operates using a feature known as "library collections," which are stored off the main library, externally. Each library collection is hosted on another website, but the items are still part of the Library catalogue. These items are viewable both on the collection's website, and on the main library via an embed of the content. It is recommended to view the content on the collection's website for ease of access. If you're looking for only a specific category of the archives (e.g., quotes), you should visit the collection's website to only see items in that collection. You can view all library collections in the dropdown menu of the network navbar, or on the official [library-collections website](https://library-collections.yeahgames.net).
 
+As of December 31st, 2022, the active and proposed Library collections are as follows:
+- The Main library collection [For displaying all content and hosting miscellaneous content that doesn't belong or isn't owned by any external collection]; hosted at [library.yeahgames.net](https://library.yeahgames.net)
+- The Docs collection [For documentation]; hosted at [docs.yeahgames.net](https://docs.yeahgames.net)
+- The News collection [For news and announcements]; hosted at [news.yeahgames.net](https://news.yeahgames.net)
+- The Quotes collection [For various quotes]; hosted at [quotes.yeahgames.net](https://quotes.yeahgames.net)
+- The Archives content collection [For content that cannot be hosted using collections or the main library, especially various file types]; hosted at [archives-cdn.yeahgames.net](https://archives-cdn.yeahgames.net)
+- The OKdex collection [For the OKdex of Random Guy TCG]; hosted at [okdex.yeahgames.net](https://okdex.yeahgames.net)
+- 
+
 Most content on the archives is hosted on library collections for easier access and organization, but you can still view everything at once on the Main Library. 
 ### Hosting your own collection
 Members can host their own collection for Archive items that they own or archive themselves; to do this, please [file an issue on the GitHub repository for the Library Collections website](https://github.com/yEAh-Games/library-collections/issues) and your application will be reviewed shortly. Note that to start managing your own collection, you must state a valid "category" for your collection (i.e., why the content you'll host there is related to eachother and the collection itself), and the subdomain must not already be in use or reserved (in the format of [your-collection-name).yeahgames.net). All content you post on your collection must be part of the collection and must be content that you or your team has archived and does not belong in another collection. NSFW collections are allowed, but they must be marked as such. All content should relate back to yEAh Games in some way. If you're unsure on how to use GitHub, Git, any of the localhost test servers, or our archive format, please read the docs or submit an issue on the appropriate repository.
