@@ -7,6 +7,14 @@
     - title: "About/instructions"
       url: "docs/advertising/about"
 
+- title: Applications
+  url: docs/applications
+  links:
+    - title: "Melontime development"
+      url: "docs/advertising/melontime"
+        - title: "Chrome DinoGame"
+          url: "docs/advertising/donwload"
+
 - title: Documenting/writing the docs
   url: docs/documenting
   links:
