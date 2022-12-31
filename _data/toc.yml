@@ -11,12 +11,12 @@
   url: docs/applications
   links:
     - title: "Melontime development"
-      url: "docs/advertising/melontime/"
+      url: "docs/applications/melontime/"
     - title: "Melontime: Chrome DinoGame"
-      url: "docs/advertising/melontime/chrome-dino/download"
+      url: "docs/applications/melontime/chrome-dino/download"
       links:
     - title: "Melontime: Block bypassing"
-      url: "docs/advertising/melontime/blocks/download"
+      url: "docs/applications/melontime/blocks/download"
 
 - title: Documenting/writing the docs
   url: docs/documenting
