@@ -12,7 +12,7 @@ description: About the Archives, the library and collections system, how to star
 
 # About archiving with yEAh Games
 
-{% include alert.html type="warning" title="Note: We previously hosted our now-deprecated Archives on WordPress.com!" content="You may know this website as [yeahgames.pro](https://yeahgames.pro), which redirected to https://yeaharchives.wordpress.com, where we hosted our Archives from April 2022 to December 2022 before migrating to the opensource, custom-domain, yEAh Network at https://yeahgames.net. **This website is now deprecated and is no longer being updated!** We may eventually shut it down for public access, but for now it is still accessible. Information is out-of-date and the website is no longer supported. Please migrate to the yEAh Network." %}
+{% include alert.html type="warning" title="Note: We previously hosted our now-deprecated Archives on WordPress.com!" content="You may know this website as yeahgames.pro, which redirected to https://yeaharchives.wordpress.com, where we hosted our Archives from April 2022 to December 2022 before migrating to the opensource, custom, and organized, one-stop yEAh Network at https://yeahgames.net running off of GitHub. **This website is now deprecated and is no longer being updated!** We may eventually shut it down for public access, but for now it is still accessible. Information is out-of-date and the website is no longer supported. Please migrate to the yEAh Network as soon as possible." %}
 
 <!-- wp:paragraph -->
 <p>The yEAh Games archives are a system designed to make sure we (yEAh Games) never lose important data. It will often be used in Ycourt trials as evidence, or as research documents.</p>
