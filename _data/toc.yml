@@ -10,8 +10,8 @@
 - title: Applications
   url: docs/applications
   links:
-    - title: "Melontime development"
-      url: "docs/applications/melontime/"
+    - title: "Melontime: About/developing"
+      url: "docs/applications/melontime/about"
     - title: "Melontime: Chrome DinoGame"
       url: "docs/applications/melontime/chrome-dino/download"
     - title: "Melontime: Block bypassing"
