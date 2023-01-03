@@ -1,11 +1,23 @@
 ---
 layout: post
-title: Join the Yembership program and get exclusive perks!
+title: About the Yembership program
 date: 2022-07-09 00:00
-author: yeahgamesdevs
+author: yeahgames
 comments: true
-categories: [Advertisements, bonuses, Exclusive, exclusive offer, Finance, membership, official, perks, special deals, yeah games, Yembership, yollars]
+tags: 
+- bonuses 
+- exclusive offer
+- membership
+- official
+- perks 
+- special deals 
+- yeah games
+- yollars
+- advertisement
+- ads]
 ---
+![Yembership logo](https://yeaharchives.files.wordpress.com/2022/07/yembership_ad-2.png?w=930&h=450&crop=1)
+
 <!-- wp:paragraph {"textColor":"vivid-red"} -->
 <p class="has-vivid-red-color has-text-color"><strong>This is an advertisement/sponsored content paid for by <code>The yEAh Games Corporation, LLC.</code>.</strong></p>
 <!-- /wp:paragraph -->
