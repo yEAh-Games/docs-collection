@@ -10,12 +10,19 @@
 - title: Applications
   url: docs/applications
   links:
+    - title: "Bots: About/developing"
+      url: "docs/applications/bots/about"
+    - title: "Bots: Yeebot: About"
+      url: "docs/applications/bots/yeebot/about"
+    - title: "Bots: Yeebot: Commands!"
+      url: "docs/applications/bots/yeebot/commands"
     - title: "Melontime: About/developing"
       url: "docs/applications/melontime/about"
     - title: "Melontime: Chrome DinoGame"
       url: "docs/applications/melontime/chrome-dino/download"
     - title: "Melontime: Block bypassing"
       url: "docs/applications/melontime/blocks/download"
+      
 
 - title: Archives
   url: docs/archives
@@ -24,22 +31,6 @@
       url: "docs/archives/about"
     - title: "Start archiving!"
       url: "docs/archives/start"
-
-- title: Bots
-  url: docs/bots
-  links:
-    - title: "Yeebot: About"
-      url: "docs/bots/yeebot/about"
-    - title: "Yeebot: Commands!"
-      url: "docs/bots/yeebot/commands"
-
-- title: Discord
-  url: docs/discord
-  links:
-    - title: "Discord: About"
-      url: "docs/discord/about"
-    - title: "Discord: Join!!"
-      url: "docs/discord/join"
 
 - title: Documenting/writing the docs
   url: docs/documenting
@@ -65,33 +56,6 @@
       url: "docs/documenting/subfolder"
     - title: Versioning
       url: "docs/documenting/versioning"
-
-- title: Finance
-  url: docs/finance
-  links:
-    - title: "Stocks: About"
-      url: "docs/finance/stocks/about"
-    - title: "Stocks: Symbols"
-      url: "docs/finance/stocks/symbols"      
-    - title: "Yank: About balances"
-      url: "docs/finance/yank/balances"   
-    - title: "Yank: Rates"
-      url: "docs/finance/yank/rates"   
-    - title: "Yembership: About/join"
-      url: "docs/finance/yembership/about"   
-
-- title: Games
-  url: docs/games
-  links:
-    - title: "Random Guy: Current rules"
-      url: "docs/games/rg/rules/current"
-    - title: "Wa Wa West+: Current rules"
-      url: "docs/games/www/rules/current"      
-    - title: "Yic Yac Yoe: Current rules"
-      url: "docs/games/yyy/rules/current"   
-
-
-
 
 - title: "𝗢𝗧𝗛𝗘𝗥 𝗟𝗜𝗡𝗞𝗦"
   url: "docs/extras"
