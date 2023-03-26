@@ -1,5 +1,5 @@
 ---
-title: MelonTime: Chrome Dino hacks download
+title: MelonTime﹕Chrome Dino game hacks download
 date: 2022-04-16 17:20
 author: yeahgamesdevs
 tags: 
@@ -10,7 +10,7 @@ tags:
 - melontime
 ---
 
-{% include alert.html type="danger" title="Do not paste random scripts into the developer console!" content="Pasting scripts into the developer console can expose vulnerabilities that can expose vulnerable information, like your account credentials and IP address.  We have tested these scripts to ensure that they are safe, but use them at your own risk. **The yEAh Games Corporation, LLC. waves all liability regarding MelonTime Hack downloads; if any damages occur, we are not responsible.**" %}
+{% include alert.html type="danger" title="Do not paste random scripts into the developer console!" content="Pasting scripts into the developer console can expose vulnerabilities that can expose vulnerable information, like your account credentials and IP address.  We have tested these scripts to ensure that they are safe, but use them at your own risk. The yEAh Games Corporation, LLC. waves all liability regarding MelonTime Hack downloads; if any damages occur, we are not responsible." %}
 
 <!-- wp:paragraph -->
 <p>This page lists the most recent version of hacks developed by the MelonTime team<sup>® </sup>(yEAh Games' hack series) for the Chrome dinosaur game.<br>
