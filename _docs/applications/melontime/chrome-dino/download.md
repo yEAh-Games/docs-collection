@@ -1,4 +1,5 @@
 ---
+layout: post
 title: MelonTime: Chrome Dino hacks download
 date: 2022-04-16 17:20
 author: yeahgamesdevs
