@@ -16,7 +16,7 @@ tags:
 <!-- wp:paragraph -->
 <p>This page lists the most recent version of hacks developed by the MelonTime team<sup>® </sup>(yEAh Games' hack series) for the Chrome dinosaur game.<br>
 
-{% include alert.html type="info" title="The original hacks, along with other downloads, can be access from our Discord server." content="All original MelonTime<sup>®</sup> hacks, as well as other hack downloads, can be viewed in the [#hax-download](https://discord.com/channels/887052880782176266/894730499405258753) channel on our Discord server." %}
+{% include alert.html type="info" title="The original hacks, along with other downloads, can be access from our Discord server." content="All original MelonTime<sup>®</sup> hacks, as well as other hack downloads, can be viewed in the #hax-download (https://discord.com/channels/887052880782176266/894730499405258753) channel on our Discord server." %}
 
 Please follow the instructions as we have listed them; there should be no threat if you follow these steps exactly as they are. 
 
@@ -69,7 +69,8 @@ Please follow the instructions as we have listed them; there should be no threat
 <!-- /wp:paragraph -->
 
 <!-- wp:syntaxhighlighter/code -->
-```js
+```javascript
+
 function keyDown(e){Podium={};var n=document.createEvent("KeyboardEvent");Object.defineProperty(n,"keyCode",{get:function(){return this.keyCodeVal}}),n.initKeyboardEvent?n.initKeyboardEvent("keydown",!0,!0,document.defaultView,e,e,"","",!1,""):n.initKeyEvent("keydown",!0,!0,document.defaultView,!1,!1,!1,!1,e,0),n.keyCodeVal=e,document.body.dispatchEvent(n)}function keyUp(e){Podium={};var n=document.createEvent("KeyboardEvent");Object.defineProperty(n,"keyCode",{get:function(){return this.keyCodeVal}}),n.initKeyboardEvent?n.initKeyboardEvent("keyup",!0,!0,document.defaultView,e,e,"","",!1,""):n.initKeyEvent("keyup",!0,!0,document.defaultView,!1,!1,!1,!1,e,0),n.keyCodeVal=e,document.body.dispatchEvent(n)}setInterval(function(){Runner.instance_.horizon.obstacles.length&gt;0&amp;&amp;(Runner.instance_.horizon.obstacles[0].xPos&lt;25*Runner.instance_.currentSpeed-Runner.instance_.horizon.obstacles[0].width/2&amp;&amp;Runner.instance_.horizon.obstacles[0].yPos&gt;75&amp;&amp;(keyUp(40),keyDown(38)),Runner.instance_.horizon.obstacles[0].xPos&lt;30*Runner.instance_.currentSpeed-Runner.instance_.horizon.obstacles[0].width/2&amp;&amp;Runner.instance_.horizon.obstacles[0].yPos&lt;=75&amp;&amp;keyDown(40))},5);
 
 Runner.instance_.setSpeed(1000)
@@ -82,6 +83,7 @@ Runner.prototype.gameOver = function(){}
 Runner.instance_.distanceRan = 12345 / Runner.instance_.distanceMeter.config.COEFFICIENT
 
 Runner.instance_.tRex.setJumpVelocity(10)
+
 ```
 <!-- /wp:syntaxhighlighter/code -->
 

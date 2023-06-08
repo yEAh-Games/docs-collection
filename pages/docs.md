@@ -3,6 +3,7 @@ layout: page
 title: Documentation
 permalink: /docs/
 ---
+<link rel="canonical" href="https://docs.yeahgames.net/docs">
 
 # Documentation
 
