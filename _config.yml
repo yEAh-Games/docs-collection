@@ -1,22 +1,6 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing these this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
-title: YG Docs
-email: admin@yeahgames.net
-author: yEAh Games
+title: yEAh Docs
+email: docs@yeahgames.net
+author: yEAh Dev Team
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to the official Documentation Archive Collection of the yEAh Games Library, 
   host of the official yEAh Games documentation archive collection for bots, rules, 
@@ -42,7 +26,7 @@ dockerhub:
 # These options are used to configure the locations of your version history when you want to serve versioned documents
 version_params:
   version_menu: "Release"
-  version_dir: Archive
+  version_dir: 
   tocversion_dir: versions
   versioning: false
 
@@ -61,7 +45,7 @@ version_params:
 feedback: true
 
 # Link to a privacy policy in footer, uncomment and define if wanted
-privacy: https://yeahgames.net/privacy
+privacy: https://www.yeahgames.net/privacy
 
 # google-analytics: UA-XXXXXXXXXX
 # Image and (square) dimension for logo (don't start with /)

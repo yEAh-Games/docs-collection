@@ -99,7 +99,7 @@ excluded_in_search: true
 * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)*/
 
 :root {
-    --blue: #72A1E5;
+    --blue: #ff4747;
     --indigo: #6610f2;
     --purple: #6f42c1;
     --pink: #e83e8c;
@@ -274,7 +274,7 @@ sup {
 }
 
 a {
-    color: #3176d9;
+    color: #ff4747;
     text-decoration: none;
     background-color: transparent;
     -webkit-text-decoration-skip: objects
@@ -3648,7 +3648,7 @@ fieldset:disabled a.btn {
 
 .btn-link {
     font-weight: 400;
-    color: #3176d9;
+    color: #ff4747;
     background-color: transparent
 }
 
@@ -15556,7 +15556,7 @@ a.text-dark:focus {
 
 .-bg-blue {
     color: #fff;
-    background-color: #72a1e5
+    background-color: #ff4747
 }
 
 .-bg-blue p>a {
@@ -15569,7 +15569,7 @@ a.text-dark:focus {
 }
 
 .-text-blue {
-    color: #72a1e5
+    color: #ff4747
 }
 
 .-bg-indigo {
@@ -15740,7 +15740,7 @@ a.text-dark:focus {
 }
 
 .-bg-white p>a {
-    color: #72a1e5
+    color: #ff4747
 }
 
 .-bg-white p>a:hover,
@@ -16172,7 +16172,7 @@ a.text-dark:focus {
 }
 
 .-bg-4 p>a {
-    color: #72a1e5
+    color: #ff4747
 }
 
 .-bg-4 p>a:hover,
@@ -16316,7 +16316,7 @@ a.text-dark:focus {
 }
 
 .-bg-12 p>a {
-    color: #72a1e5
+    color: #ff4747
 }
 
 .-bg-12 p>a:hover,
@@ -16548,7 +16548,7 @@ a.text-dark:focus {
 }
 
 .td-box--4 p>a {
-    color: #72a1e5
+    color: #ff4747
 }
 
 .td-box--4 p>a:hover,
@@ -16812,7 +16812,7 @@ a.text-dark:focus {
 }
 
 .td-box--12 p>a {
-    color: #72a1e5
+    color: #ff4747
 }
 
 .td-box--12 p>a:hover,
@@ -16862,7 +16862,7 @@ a.text-dark:focus {
 
 .td-box--blue {
     color: #fff;
-    background-color: #72a1e5
+    background-color: #ff4747
 }
 
 .td-box--blue .td-arrow-down::before {
@@ -16871,7 +16871,7 @@ a.text-dark:focus {
     bottom: -25px;
     border-style: solid;
     border-width: 25px 30px 0;
-    border-color: #72a1e5 transparent transparent transparent;
+    border-color: #ff4747 transparent transparent transparent;
     z-index: 3;
     position: absolute;
     content: ""
@@ -16887,10 +16887,10 @@ a.text-dark:focus {
 }
 
 .td-box--1blue.td-box--gradient {
-    background: #72A1E5 -webkit-gradient(linear, left top, left bottom, from(#87afe9), to(#72A1E5)) repeat-x!important;
-    background: #72a1e5 -webkit-linear-gradient(top, #87afe9, #72A1E5) repeat-x!important;
-    background: #72a1e5 -o-linear-gradient(top, #87afe9, #72A1E5) repeat-x!important;
-    background: #72a1e5 linear-gradient(180deg, #87afe9, #72A1E5) repeat-x!important
+    background: #ff4747 -webkit-gradient(linear, left top, left bottom, from(#87afe9), to(#ff4747)) repeat-x!important;
+    background: #ff4747 -webkit-linear-gradient(top, #87afe9, #ff4747) repeat-x!important;
+    background: #ff4747 -o-linear-gradient(top, #87afe9, #ff4747) repeat-x!important;
+    background: #ff4747 linear-gradient(180deg, #87afe9, #ff4747) repeat-x!important
 }
 
 .td-box--indigo {
@@ -17208,7 +17208,7 @@ a.text-dark:focus {
 }
 
 .td-box--white p>a {
-    color: #72a1e5
+    color: #ff4747
 }
 
 .td-box--white p>a:hover,
@@ -18091,7 +18091,7 @@ html body .md-typeset .headerlink {
 }
 
 .td-sidebar-nav__section-title a {
-    color: #222
+    color: white
 }
 
 .td-sidebar-nav .td-sidebar-link {
@@ -18100,12 +18100,12 @@ html body .md-typeset .headerlink {
 }
 
 .td-sidebar-nav .td-sidebar-link__page {
-    color: #495057;
+    color: #ff4747;
     font-weight: 300
 }
 
 .td-sidebar-nav a:hover {
-    color: #72a1e5;
+    color: #ff4747;
     text-decoration: none
 }
 
@@ -18130,9 +18130,11 @@ html body .md-typeset .headerlink {
         padding-top: 4rem;
         background-color: rgba(48, 99, 142, .03);
         padding-right: 1rem;
-        border-right: 1px solid #dee2e6
+        border-right: 1px solid #1d1f24
     }
 }
+
+.sub1{color:white}
 
 .td-sidebar__toggle {
     line-height: 1;
@@ -18225,7 +18227,7 @@ html body .md-typeset .headerlink {
 }
 
 .td-toc #TableOfContents a:hover {
-    color: #72a1e5;
+    color: #ff4747;
     text-decoration: none
 }
 
@@ -18453,7 +18455,13 @@ html body .md-typeset .headerlink {
 }
 
 .td-main main {
-    padding-bottom: 2rem
+    padding-bottom: 2rem;
+    background-color: #0c0e14!important;
+    color:white!important;
+}
+
+.td-main main a {
+    color:#ff4747!important;
 }
 
 @media(min-width:768px) {

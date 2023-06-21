@@ -1,4 +1,4 @@
-<div id="td-sidebar-menu" class="td-sidebar__inner">
+<div id="td-sidebar-menu" style="background-color:#0c0e14!important" class="td-sidebar__inner">
   
   <form class="td-sidebar__search d-flex align-items-center">
     <input type="search" class="form-control td-search-input" placeholder="&#xf002 Search the docs" aria-label="Search this site…" autocomplete="off">
@@ -42,7 +42,7 @@
         {% endif %}
         
         <li class="td-sidebar-nav__section-title">
-          <a  href="{% if section.url %}{{ site.baseurl }}/{{ section.url | replace: 'docs', versionlink }}{% else %}{{ section.external_url }}{% endif %}" class="align-left pl-0 pr-2 active td-sidebar-link td-sidebar-link__section">{{ section.title }}</a>
+          <a style="color:#ff4747!important" href="{% if section.url %}{{ site.baseurl }}/{{ section.url | replace: 'docs', versionlink }}{% else %}{{ section.external_url }}{% endif %}" class="align-left pl-0 pr-2 active td-sidebar-link td-sidebar-link__section">{{ section.title }}</a>
         </li>
         {% if section.links %}
           <ul>
@@ -68,7 +68,7 @@
                              {% else %}
                                 {{ entry.external_url }}
                              {% endif %}" 
-                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section {% if page.url == fullentryurl | strip %}active{% endif %}">{{ entry.title }}
+                       class="sub1 align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section {% if page.url == fullentryurl | strip %}active{% endif %}">{{ entry.title }}
                     </a>
                   </li>
                   {% if page.url contains fullentryurl or pageUrl == sectionUrl %}
