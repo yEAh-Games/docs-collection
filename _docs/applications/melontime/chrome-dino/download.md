@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MelonTime﹕Chrome Dino game hacks download
+title: "MelonTime: Chrome Dino game hacks download"
 date: 2022-04-16 17:20
 author: yeahgamesdevs
 tags: 
@@ -69,8 +69,7 @@ Please follow the instructions as we have listed them; there should be no threat
 <!-- /wp:paragraph -->
 
 <!-- wp:syntaxhighlighter/code -->
-```javascript
-
+{% highlight js %}
 function keyDown(e){Podium={};var n=document.createEvent("KeyboardEvent");Object.defineProperty(n,"keyCode",{get:function(){return this.keyCodeVal}}),n.initKeyboardEvent?n.initKeyboardEvent("keydown",!0,!0,document.defaultView,e,e,"","",!1,""):n.initKeyEvent("keydown",!0,!0,document.defaultView,!1,!1,!1,!1,e,0),n.keyCodeVal=e,document.body.dispatchEvent(n)}function keyUp(e){Podium={};var n=document.createEvent("KeyboardEvent");Object.defineProperty(n,"keyCode",{get:function(){return this.keyCodeVal}}),n.initKeyboardEvent?n.initKeyboardEvent("keyup",!0,!0,document.defaultView,e,e,"","",!1,""):n.initKeyEvent("keyup",!0,!0,document.defaultView,!1,!1,!1,!1,e,0),n.keyCodeVal=e,document.body.dispatchEvent(n)}setInterval(function(){Runner.instance_.horizon.obstacles.length&gt;0&amp;&amp;(Runner.instance_.horizon.obstacles[0].xPos&lt;25*Runner.instance_.currentSpeed-Runner.instance_.horizon.obstacles[0].width/2&amp;&amp;Runner.instance_.horizon.obstacles[0].yPos&gt;75&amp;&amp;(keyUp(40),keyDown(38)),Runner.instance_.horizon.obstacles[0].xPos&lt;30*Runner.instance_.currentSpeed-Runner.instance_.horizon.obstacles[0].width/2&amp;&amp;Runner.instance_.horizon.obstacles[0].yPos&lt;=75&amp;&amp;keyDown(40))},5);
 
 Runner.instance_.setSpeed(1000)
@@ -83,8 +82,8 @@ Runner.prototype.gameOver = function(){}
 Runner.instance_.distanceRan = 12345 / Runner.instance_.distanceMeter.config.COEFFICIENT
 
 Runner.instance_.tRex.setJumpVelocity(10)
+{% endhighlight %}
 
-```
 <!-- /wp:syntaxhighlighter/code -->
 
 <!-- wp:paragraph -->

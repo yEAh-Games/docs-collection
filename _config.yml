@@ -69,6 +69,8 @@ fixedNav: 'true' # true or false
 
 permalink: /posts/:year/:title/
 markdown: kramdown
+highlighter: rouge
+rouge_theme: monokai
 exclude: [_site, CHANGELOG.md, LICENSE, README.md, vendor]
 
 # Collections
