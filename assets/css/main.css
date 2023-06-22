@@ -18258,8 +18258,9 @@ html body .md-typeset .headerlink {
 .alert {
     font-weight: 500;
     background: #fff;
-    color: inherit;
-    border-radius: 0
+    color: white;
+    background-color:#1d1f24;
+    border-radius: 5px;
 }
 
 .alert-primary {
