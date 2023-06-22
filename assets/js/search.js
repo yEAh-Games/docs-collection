@@ -95,11 +95,11 @@ excluded_in_search: true
 
 					// Any older version shows up in gray
 					} else if (item.version != "all") {
-						versionBadge = "<span class='badge badge-secondary'>" + item.version + "</span>"
+						versionBadge = "<span style='background-color:#ff4747' class='badge badge-secondary'>" + item.version + "</span>"
 
 					// Current is blue (primary)
 					} else {
-						versionBadge = "<span class='badge badge-{{ site.tag_color }}'>Current</span>"
+						versionBadge = "<span style='background-color:#5e9c00!important' class='badge'>Current</span>" + "&#160;" + "<span style='background-color:#ff4747!important' class='badge badge-secondary'>" + "2.0" + "</span>"
                                        }
 					resultsHTML += "<li><h4><a href='{{ site.baseurl }}" + item.url.trim() + "'>" + titlePreview + "</a></h4><p>" + versionBadge +"<small>" + contentPreview + "</small></p></li>";
 				}

@@ -21,14 +21,14 @@
           <span class="nav-link ">{{site.version_params.version_menu}}:</span>
         {% endif %}
         <li class="nav-item dropdown d-none d-lg-block">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ currentpageversion }}</a>
+          <a style="font-weight:bold;color:#ff4747" class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ currentpageversion }}</a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
             {% for version in site.version_params.versions %}
             {% capture civersion %}
               {{ version | downcase}}
             {% endcapture %}
               {% if version == site.version_params.latest %}
-                <a class="dropdown-item" href="{{ site.baseurl }}{{ latestversion }}">{{version}}</a>
+                <a class="dropdown-item" style="color:#ff4747!important" href="{{ site.baseurl }}{{ latestversion }}">{{version}}</a>
               {% else %}
                 {% if site.version_params.version_dir != "" %}
                   {% assign versionlink = '/docs/' | append: site.version_params.version_dir | append: '/' | append: version | append: '/' %}
