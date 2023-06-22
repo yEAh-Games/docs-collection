@@ -4160,6 +4160,8 @@ input[type=button].btn-block {
     margin-bottom: 0
 }
 
+.nx{color:lightgray!important}
+
 .input-group>.form-control+.form-control,
 .input-group>.form-control+.custom-select,
 .input-group>.form-control+.custom-file,
@@ -5413,7 +5415,8 @@ input[type=button].btn-block {
     background-color: #fff;
     background-clip: border-box;
     border: 1px solid rgba(0, 0, 0, .125);
-    border-radius: .25rem
+    border-radius: .25rem;
+    color:whitesmoke
 }
 
 .card>hr,
@@ -17860,7 +17863,7 @@ a.text-dark:focus {
 .td-content .highlight {
     margin: 2rem 0;
     padding: 1rem;
-    background-color: #f8f9fa
+    background-color: #1d1f24
 }
 
 .td-content .highlight pre,
