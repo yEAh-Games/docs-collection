@@ -1,8 +1,8 @@
 - title: Advertising
   url: docs/advertising
   links:
-    - title: "About yEAh advertising"
-      url: "docs/advertising"
+    - title: "About/instructions"
+      url: "docs/advertising/about"
 
 - title: Applications
   url: docs/applications

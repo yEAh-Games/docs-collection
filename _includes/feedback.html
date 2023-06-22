@@ -24,8 +24,9 @@
   Sorry to hear that. Please <a href="{{ site.repo  }}/issues/new">tell us how we can improve</a>.
 </p>
 <br>
-
-{% include comments.html %}
+{% if page.url contains "/docs/" and page.url != "/docs/" %}
+  {% include comments.html %}
+{% endif %}
 
 <script>
   const yesButton = document.querySelector('.feedback--answer-yes');

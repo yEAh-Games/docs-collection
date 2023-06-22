@@ -24,18 +24,22 @@ dockerhub:
 # Versioning
 version_params:
   version_menu: "Release"
-  version_dir:
+  version_dir: v
   tocversion_dir: versions
-  versioning: false
-  allow_search: true
-  search_versions:
-    - Previous
-  latest: Current
-  versions:
-    - Current
-    - Previous
+  versioning: true
 
-# Should there be feedback buttons at the bottom of pages?
+  # Disable so older versions cannot be searched
+  allow_search: true  
+
+  # Allow these versions to be searched
+  search_versions:
+    - "1.0"
+    - "2.0"
+  latest: "2.0"
+  versions:
+    - "2.0"
+    - "1.0"
+
 feedback: true
 
 # Link to a privacy policy in footer, uncomment and define if wanted
