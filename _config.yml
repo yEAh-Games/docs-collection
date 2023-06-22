@@ -53,21 +53,6 @@ color: "#ff4747" # primary color for header, buttons
 # Build settings
 markdown: kramdown
 
-# Syntax highlighting
-kramdown:
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    default_lang: css
-    css_class: 'highlight'
-    span:
-      line_numbers: 'false'
-      line_number_anchors: 'false'
-      line_number_start: 1
-    block:
-      line_numbers: 'false'
-      line_number_start: 1
-      wrap: div
-
 # Permalinks and layouts
 permalink: /posts/:year/:title/
 exclude: [_site, CHANGELOG.md, LICENSE, README.md, vendor]
