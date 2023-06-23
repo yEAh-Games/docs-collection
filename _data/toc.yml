@@ -1,8 +1,18 @@
 - title: Advertising
-  url: docs/advertising
+  url: docs/ads
   links:
-    - title: "About yEAh advertising"
-      url: "docs/advertising"
+    - title: "Overview"
+      url: "docs/ads"
+    - title: "Pricing"
+      url: "docs/ads/pricing"
+    - title: "Step-by-step guide"
+      url: "docs/ads/instructions"
+    - title: "Creating an ad"
+      url: "docs/ads/creating-an-ad"
+    - title: "Supported media"
+      url: "docs/ads/creating-an-ad/supported-media"
+    - title: "Supported platforms"
+      url: "docs/ads/supported-platforms"
 
 - title: Applications
   url: docs/applications
