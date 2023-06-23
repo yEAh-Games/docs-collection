@@ -23,7 +23,7 @@ dockerhub:
 
 # Versioning
 version_params:
-  version_menu: "Release"
+  version_menu: "Version"
   version_dir: v
   tocversion_dir: versions
   versioning: true
@@ -34,7 +34,6 @@ version_params:
   # Allow these versions to be searched
   search_versions:
     - "1.0"
-    - "2.0"
   latest: "2.0"
   versions:
     - "2.0"
