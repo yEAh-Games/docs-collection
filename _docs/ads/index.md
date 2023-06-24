@@ -12,7 +12,7 @@ description: Did you know that yEAh Games offers an advertising platform for ser
 ---
 
 # Advertising on the yEAh Network
-<img src="https://yeaharchives.files.wordpress.com/2022/06/screenshot-2022-06-21-17.16.43.png" style="border: 1px solid #ff4747">
+<img src="./your-ad-here.png" style="border: 1px solid #ff4747">
 
 {% include alert.html type="info" title="Info" content="Did you know that you can advertise on the yEAh Network? With yEAh Ads, effortlessly attract customers to your offerings on the network and experience unparalleled growth." %}
 

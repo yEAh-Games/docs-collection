@@ -14,23 +14,6 @@
     - title: "Supported platforms"
       url: "docs/ads/supported-platforms"
 
-- title: Applications
-  url: docs/applications
-  links:
-    - title: "Bots: About/developing"
-      url: "docs/applications/bots/about"
-    - title: "Bots: Yeebot: About"
-      url: "docs/applications/bots/yeebot/about"
-    - title: "Bots: Yeebot: Commands!"
-      url: "docs/applications/bots/yeebot/commands"
-    - title: "Melontime: About/developing"
-      url: "docs/applications/melontime/about"
-    - title: "Melontime: Chrome DinoGame"
-      url: "docs/applications/melontime/chrome-dino/download"
-    - title: "Melontime: Block bypassing"
-      url: "docs/applications/melontime/blocks/download"
-      
-
 - title: Archives
   url: docs/archives
   links:
@@ -39,27 +22,42 @@
     - title: "Start archiving!"
       url: "docs/archives/start"
 
-- title: Documenting/writing the docs
-  url: docs/documenting
+- title: Development
+  url: docs/dev
   links:
-    - title: "About documenting with YG"
-      url: "docs/documenting/about"
-    - title: "Configuring the docs"
-      url: "docs/documenting/quickstart"
-    - title: "An example page"
-      url: "docs/documenting/example-page"
-    - title: "Getting Started"
-      url: "docs/documenting/getting-started"
-      children:
-        - title: Features
-          url: "docs/documenting/getting-started#getting-started"
-        - title: Development
-          url: "docs/documenting/getting-started#development"
-        - title: Customization
-          url: "docs/documenting/getting-started#customization"
-    - title: "Working with quizzes"
-      url: "docs/extras/example-quiz"
-    - title: "Working with subfolders"
-      url: "docs/documenting/subfolder"
-    - title: Versioning
-      url: "docs/documenting/versioning"
+    - title: "Overview"
+      url: "docs/dev"
+
+- title: Discord
+  url: docs/discord
+  links:
+    - title: "Overview"
+      url: "docs/discord"
+
+- title: Discord bots
+  url: docs/discord/bots
+  links:
+    - title: "Overview"
+      url: "docs/discord/bots"
+    - title: "YeeBot: Overview"
+      url: "docs/discord/bots/yeebot"
+    - title: "YeeBot: Commands"
+      url: "docs/discord/bots/yeebot/commands"
+
+- title: Hacking
+  url: docs/dev/melontime
+  links:
+    - title: "Overview"
+      url: "docs/dev/melontime"
+    - title: "Chrome dino game"
+      url: "docs/dev/melontime/chrome-dino"
+    - title: "Block bypassing"
+      url: "docs/dev/melontime/blocks"
+
+- title: Network
+  url: docs/network
+  links:
+    - title: "Overview"
+      url: "docs/network"
+    - title: "Error 522"
+      url: "docs/network/errors/522"

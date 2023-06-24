@@ -28,7 +28,7 @@
               {{ version | downcase}}
             {% endcapture %}
               {% if version == site.version_params.latest %}
-                <a class="dropdown-item" style="color:#ff4747!important" href="{{ site.baseurl }}{{ latestversion }}">{{version}}</a>
+                <a class="dropdown-item" href="{{ site.baseurl }}{{ latestversion }}">{{version}}</a>
               {% else %}
                 {% if site.version_params.version_dir != "" %}
                   {% assign versionlink = '/docs/' | append: site.version_params.version_dir | append: '/' | append: version | append: '/' %}
