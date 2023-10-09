@@ -1,14 +1,14 @@
 title: yEAh Docs
-email: docs@yeahgames.net
+email: docs@ynwk.org
 author: yEAh Dev Team
 description: >
   Welcome to the official Documentation Archive Collection of the yEAh Games Library,
   host of the official yEAh Games documentation archive collection for bots, rules,
-  servers, games, etc. Readable and searchable at https://docs.yeahgames.net.
+  servers, games, etc. Readable and searchable at https://docs.ynwk.org.
   Want to find out about something in yEAh Games? The Docs collection is your best option.
 
 baseurl: ""
-url: "https://docs.yeahgames.net"
+url: "https://docs.ynwk.org"
 
 # Social
 repo: "https://github.com/yEAh-Games/collections-docs"
@@ -42,7 +42,7 @@ version_params:
 feedback: true
 
 # Link to a privacy policy in footer, uncomment and define if wanted
-privacy: https://www.yeahgames.net/privacy
+privacy: https://www.ynwk.org/privacy
 
 # Google Analytics
 # google-analytics: UA-XXXXXXXXXX
